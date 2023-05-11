@@ -16,4 +16,6 @@ Created a Facebook Management using Java and MySQL. Data entered by the user are
 * host - localhost
 * user - root
 * password - root
-Email is the Primary Key in userinformation and User_email is the Foreign key in user_post Table.<br>
+
+Email is the Primary Key in userinformation and User_email is the Foreign key in user_post Table.
+
