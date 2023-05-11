@@ -27,6 +27,8 @@ create table user_post(post_id int primary key auto_increment,user_message varch
 
 ![Screenshot (12)](https://github.com/Poonam-Patil-29/Social-Media-Using-Java-JDBC/assets/104273538/d7b24e02-5727-46a8-ae3b-597e19beb9fe)
 
+
+
 ![Screenshot (13)](https://github.com/Poonam-Patil-29/Social-Media-Using-Java-JDBC/assets/104273538/a0dda458-b6e3-4324-8cf4-42cdd9cf4d8b)
 
 
